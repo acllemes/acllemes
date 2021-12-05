@@ -5,7 +5,12 @@
 📚 Análise e Desenvolvimento de Sistemas 
 
 ## Cursos Concluidos 
-📚 Automação para Redes Cisco com Python 3 - Andre Iacono
+📚 **HTML e CSS - Gustavo Guanabara**
+* Introdução ao HTML e CSS, o curso é dividido em 5 módulos, esse foi bem focado em HTML com uma pequena introdução em CSS, preciso continuar os modulos para pegar mais conhecimento em CSS.
+
+📚 **Automação para Redes Cisco com Python 3 - Andre Iacono**
+
+* Atualmente trabalho em uma empresa que fornece internet para clientes corporativos, no setor de Engenharia onde é feito a configuração dos aparelhos, estamos vendo a possibilidade de automatizar as confiruações, parti pra cima e comecei os estudos, e o primeiro foi esse do André. Minha função no setor vai ser entrar com o conhecimento em Python e fazer alguns scripts. 
 <br>
 
 ## Estudando as seguintes linguagens 
