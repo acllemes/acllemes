@@ -4,6 +4,10 @@
 👨‍🎓 PUC Minas <br>
 📚 Análise e Desenvolvimento de Sistemas 
 
+## Cursos Concluidos 
+📚 Automação para Redes Cisco com Python 3 - Andre Iacono
+<br>
+
 ## Estudando as seguintes linguagens 
 
 <div style="display: inline_block"><br>
