@@ -4,9 +4,6 @@
 👨‍🎓 PUC Minas <br>
 📚 Análise e Desenvolvimento de Sistemas 
 
-## Comunidade Python Brasil 
-https://python.org.br/
-
 ## Cursos concluidos 
 📚 **HTML e CSS - Gustavo Guanabara**
 * Introdução ao HTML e CSS, o curso é dividido em 5 módulos, esse foi bem focado em HTML com uma pequena introdução em CSS, preciso continuar os modulos para pegar mais conhecimento em CSS.
@@ -43,3 +40,6 @@ https://python.org.br/
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/andressa-lemes-b36b641b9//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatodevandressa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   </div>
+
+## Comunidade Python Brasil 
+https://python.org.br/
