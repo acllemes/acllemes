@@ -1,8 +1,14 @@
 ## Olá, eu sou a Andressa Lemes ✌ 
 
-🤞 Vou ser desenvolvedora Front And <br>
-👨‍🎓 PUC Minas <br>
-📚 Análise e Desenvolvimento de Sistemas 
+Tenho 30 anos, estudo programação desde de Agosto de 2021, no modo autodidata, buscando constantemente estar atualizada. 
+
+## Meus projetos
+
+https://acllemes.github.io/calculadora/ <br>
+
+https://acllemes.github.io/verificador-de-idade/ <br>
+
+https://acllemes.github.io/hora-do-dia/ <br>
 
 ## Cursos concluidos 
 📚 **HTML e CSS - Gustavo Guanabara**
