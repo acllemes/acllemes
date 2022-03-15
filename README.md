@@ -18,16 +18,11 @@ https://acllemes.github.io/hora-do-dia/ <br>
 
 * Atualmente trabalho em uma empresa que fornece internet para clientes corporativos, no setor de Engenharia onde é feito a configuração dos aparelhos, estamos vendo a possibilidade de automatizar as confiruações, parti pra cima e comecei os estudos, e o primeiro foi esse do André. Minha função no setor vai ser entrar com o conhecimento em Python e fazer alguns scripts. 
 
-## Cursos em andamento
-📚 **Python - FIAP**
-* Curso básico de Python, voltado para automatizar a geração de ativos de uma rede, alterar configuração dos ativos de uma rede. Conforme eu evoluir no curso, vou deixando os comentarios aqui. 
-
 ## Estudando as seguintes linguagens 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="andressa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="andressa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="andressa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="andressa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
